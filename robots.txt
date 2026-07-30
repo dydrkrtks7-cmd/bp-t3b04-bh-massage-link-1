@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mokdong-hyperpublic-note.ishikyujin.space/sitemap.xml
+Sitemap: https://mokdong-hyperpublic-note.ishikyujin.space/sitemap-pages.xml
